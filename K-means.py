@@ -1,6 +1,3 @@
-# K-means . Unsupervised learning - clustering
-#  Means Clustering Algorithm | K Means Example in Python | Machine Learning Algorithms | Edureka
-# K : parameter number of clusters
 # customer segmentation
 
 # Initialisation
